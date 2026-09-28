@@ -100,14 +100,6 @@ Meu objetivo é transformar cada projeto em uma oportunidade de aprendizado e ev
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XxINSAN0xX\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxINSAN0xX\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🤝 Vamos nos conectar?
 
 Estou aberto a oportunidades, projetos e conexões com profissionais da área de tecnologia.
