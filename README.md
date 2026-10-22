@@ -104,7 +104,7 @@ Meu objetivo é transformar cada projeto em uma oportunidade de aprendizado e ev
 
 Estou aberto a oportunidades, projetos e conexões com profissionais da área de tecnologia.
 
-📌 **GitHub:** [XxINSAN0xX](https://github.com/XxINSAN0xX)
+📌 **GitHub:** [XxINSAN0xX](https://github.com/MouraMichel)
 
 ---
 
