@@ -59,7 +59,7 @@ Sistema web de gerenciamento de tarefas desenvolvido como projeto de estudo e po
 
 `HTML` `CSS` `JavaScript` `LocalStorage`
 
-🔗 **[Acessar projeto](https://github.com/XxINSAN0xX/devtasks)**
+🔗 **[Acessar projeto](https://github.com/MouraMichel/devtasks)**
 
 ---
 
@@ -104,7 +104,7 @@ Meu objetivo é transformar cada projeto em uma oportunidade de aprendizado e ev
 
 Estou aberto a oportunidades, projetos e conexões com profissionais da área de tecnologia.
 
-📌 **GitHub:** [XxINSAN0xX](https://github.com/MouraMichel)
+📌 **GitHub:** [Michel Moura](https://github.com/MouraMichel)
 
 ---
 
